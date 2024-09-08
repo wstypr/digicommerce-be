@@ -5,6 +5,7 @@
     "main": "index.js",
     "scripts": {
         "lint": "eslint --fix",
+        "build": "tsc",
         "prepare": "husky"
     },
     "keywords": [],
